@@ -9,7 +9,7 @@ DATE OF BIRTH | 05/07/1999
 <br/>
 
 # _PARSONAL SKILL_
-- Computer Run
+- Computer Oparating System
 - MS-Word
 - MS-Excel
 - MS-Powerpoint
